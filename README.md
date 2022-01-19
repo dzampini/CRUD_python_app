@@ -1,6 +1,10 @@
 # python_app
 
-Aplicaciòn con Alta, baja, modificaciòn, Actualizaciòn y consulta de datos.
-Conexiòn a Base Sqlite, validaciòn de datos, interfaz gràfica realizada en Tkinter.
-Archivos HTML Con pyDOC.
+paradigm POO
+Create, Replace, Update, Delete Ptython APP.
+Sqlite Database Connection. (there`s a Mysql Version)
+MVC Pattern
+Every .py file has a .doc file create with pydoc
+Tkinter Front End.
+
 
